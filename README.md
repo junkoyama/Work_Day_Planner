@@ -1,7 +1,7 @@
 # Work-Day-Planner
 For this homework assignment, I created a simple calendar application using HTML, CSS and jQuery. My greatest challenge was understanding local storage and how to work from Javascript to jQuery. With help from my tutor Paolo Razon, I was able to understand how local storage works on browsers and how to use jQuery with HTML and CSS.
 
-Deployed Link Here: https://junkoyama.github.io/Work-Day-Planner/
+Deployed Link Here: https://junkoyama.github.io/Work_Day_Planner/
 
 # User Story
 
